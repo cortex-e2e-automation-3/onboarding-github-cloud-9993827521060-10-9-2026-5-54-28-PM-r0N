@@ -75,7 +75,7 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/text v0.3.7
 	google.golang.org/api v0.57.0
-	google.golang.org/grpc v1.50.0-dev
+	google.golang.org/grpc 1.79.3
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.28.0
 	k8s.io/api v0.25.2
